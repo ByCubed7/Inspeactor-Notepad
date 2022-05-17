@@ -1,0 +1,18 @@
+~ ~ Thanks for using the editor! ~ ~
+
+I built this just to allow easier note-taking within the Unity Editor itself, without having to go through the 5 stages of grief to open a 3rd party text editor *just* to type a few sentences down--
+
+Feel free to use, suggest, edit, branch etc! I appreciate credit however it's not required. 
+
+This was inspired originally by KaiClavier's NotePad! Made back in 2016. Go give 'em a look!
+- https://kaiclavier.itch.io/notepad-for-unity
+
+Check out my stuff too! :)
+- https://github.com/ByCubed7
+- https://bycubed7.itch.io/
+- https://twitter.com/ByCubed7
+
+Anyway... I should stop procrastinating with making a note editor and actually do some work ;-;
+
+Cheers,
+ - Cube
